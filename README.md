@@ -1,2 +1,6 @@
 # PWN
-exploit of ctfs pwn challenges
+challenges and exploits of ctfs of pwn 
+
+# RESOURCES
+
+
